@@ -21,10 +21,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divayangsiddhapura/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="mailto:divayangofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.instagram.com/_div_18_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://x.com/_Imagine_X_" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/quora.svg" alt="X" />
   </a>
 </p>
 
